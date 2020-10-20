@@ -1,0 +1,13 @@
+{
+  "name": "html-to-pdf",
+  "version": "1.0.0",
+  "description": "html to pdf converter",
+  "main": "index.js",
+  "repository": "https://github.com/madhusudanbabar/html-to-pdf.git",
+  "author": "madhusudan babar <madhusudanbabar@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "epub-gen": "^0.1.0"
+  }
+}
